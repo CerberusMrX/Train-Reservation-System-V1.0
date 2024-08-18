@@ -13,11 +13,11 @@ Dynamic Data Handling: All data related to trains, routes, and bookings is dynam
 
 Technologies Used
 
-    Java: Core programming language used for all functionalities.
-    Java Collections Framework: Utilizes ArrayLists for managing trains, routes, and bookings.
-    Text-Based Interface: Fully interactive terminal-based user experience.
+Java: Core programming language used for all functionalities.
+Java Collections Framework: Utilizes ArrayLists for managing trains, routes, and bookings.
+Text-Based Interface: Fully interactive terminal-based user experience.
 
-    Installation
+Installation
 
     javac TrainReservationSystem.java
     java TrainReservationSystem
