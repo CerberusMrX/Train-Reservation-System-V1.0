@@ -21,3 +21,6 @@ Installation
 
     javac TrainReservationSystem.java
     java TrainReservationSystem
+
+
+![0](https://github.com/user-attachments/assets/a33b025c-9ccc-4337-80fb-e89db53e800c)
